@@ -5,7 +5,14 @@ The Arrow Flash Light app is a versatile lighting tool designed for various situ
 
 ## Screenshots
 
+<img src="https://github.com/samyak2403/Flashlight-ORG/assets/126759819/bbd4830b-d9d6-4383-ae32-1a8211a90be1" alt="Screenshot 1" width="400"/> <img src="https://github.com/samyak2403/Flashlight-ORG/assets/126759819/3b55b131-8396-43e4-aa9e-b20fe7bd7af2" alt="Screenshot 2" width="400"/>
+
+<img src="https://github.com/samyak2403/Flashlight-ORG/assets/126759819/abe7323e-1dc6-4c26-8a97-41d061389deb" alt="Screenshot 1" width="400"/> <img src="https://link-to-your-screenshot-2.png" alt="Screenshot 2" width="400"/>
+
 <img src="https://link-to-your-screenshot-1.png" alt="Screenshot 1" width="400"/> <img src="https://link-to-your-screenshot-2.png" alt="Screenshot 2" width="400"/>
+
+
+
 
 
 ## Features
