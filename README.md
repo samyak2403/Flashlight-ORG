@@ -43,5 +43,5 @@ The Arrow Flash Light app is a versatile lighting tool designed for various situ
 Contributions to the project are welcome! Feel free to fork the repository and submit pull requests with improvements or additional features.
 
 ## License
-This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See the [LICENSE](link) file for details.
+This project is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See the [LICENSE]([link](https://github.com/samyak2403/Flashlight-ORG/blob/master/LICENSE)https://github.com/samyak2403/Flashlight-ORG/blob/master/LICENSE) file for details.
 
